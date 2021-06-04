@@ -18,7 +18,7 @@ const Nav: React.FC = () => {
         <img
           height="20px"
           width="20px"
-          alt="discord logo"
+          alt="github logo"
           src={'https://avatars1.githubusercontent.com/u/9919?s=200&v=4'}
         />
       </StyledLink>
@@ -26,7 +26,7 @@ const Nav: React.FC = () => {
         <img
           height="16px"
           width="20px"
-          alt="discord logo"
+          alt="twitter logo"
           style={{ filter: 'brightness(0) invert(1) ' }}
           src={
             'https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Twitter_bird_logo_2012.svg/1280px-Twitter_bird_logo_2012.svg.png'
